@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @igwe9
-- 👀 I’m interested in Python Programming 
+- 👋 Hi, My name is Igwesi Emmanuel aka Eminex
+- 👀 I’m interested in IOT and i love using python programming language
+ in building software solutions to real world problems. 
 - 🌱 I’m currently learning web development using django.
 - 💞️ I’m looking to collaborate on project...
-- 📫 How to reach me ...
+- 📫 You can reach me via eminentdev21@gmail.com
 
 <!---
 igwe9/igwe9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
