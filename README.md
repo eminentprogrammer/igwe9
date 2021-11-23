@@ -5,7 +5,7 @@
 <p>  The Founder of the anonymous messaging app &quot;Bevardis&quot;, I am a self-taught Python Developer.</p>
 <p>An experienced Full Stack Developer working with Python/Django and Bootstrap, I have a great passion for building intuitive and dynamic user experiences.</p>
 <p> Besides my boundless energy levels, I enjoy continuous learning, pushing myself, and working on interesting things that matter.</p>
-<p>Whether it is an application that you would like developed or a problem you need to be solved, you can reach out to us.</p>
+<p>Whether it is an application that you would like developed or a problem you need to be solved, you can reach out to me.</p>
 
 <div align="center">
 <h2>Top Languages</h2>
