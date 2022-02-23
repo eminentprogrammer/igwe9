@@ -1,9 +1,9 @@
 <h1>
-The Backend Dude
 <img height="60" width="60" src="https://c.tenor.com/5ScafrzcSVkAAAAM/panda-hi.gif" />
 </h1>
 
-<p>I'm Igwesi Emmanuel, The Founder of the Anonymous messaging app &quot;Bevardis&quot;, I am a self-taught Python Developer.</p>
+<p>
+ I'm Igwesi Emmanuel, I am a self-taught Python Developer.</p>
 <p>An experienced Full Stack Developer working with Python/Django and Bootstrap, I have a great passion for building intuitive and dynamic user experiences.</p>
 <p> Besides my boundless energy levels, I enjoy continuous learning, pushing myself, and working on interesting things that matter.</p>
 <p>Whether it is an application that you would like developed or a problem you need to be solved, you can reach out to me.</p>
