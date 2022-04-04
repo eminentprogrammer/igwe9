@@ -49,12 +49,13 @@
 
   <img align="right" alt="Django" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
 
-  <img align="right" alt="Django" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>  <img align="right" alt="Django" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/api/api.png"/>
-
+  <img align="right" alt="Django" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>  
+  
    <img lign="right" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
 </div>
 
 <div align="center">
+  <img height="60" width="100px" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif" /><br>
   <b>❤️ Thank you for visiting my Profile ❤️</b>
 </div>
