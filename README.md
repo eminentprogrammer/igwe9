@@ -1,20 +1,23 @@
-<h1>
-<img height="60" width="60" src="https://c.tenor.com/5ScafrzcSVkAAAAM/panda-hi.gif" />
-</h1>
-
-<p>
- The dude is dedicated in providing software solutions, Information security and is willing to collaborate with other developers in engineering projects.
-</p>
-<p>
- An experienced Full Stack Developer working with Python/Django and Bootstrap, I have a great passion for building intuitive and dynamic user experiences.
-</p>
-<p>
- Besides my boundless energy levels, I enjoy continuous learning, pushing myself, and working on interesting things that matter.
-</p>
-<p>
- Whether it is an application that you would like developed or a problem you need to be solved, you can reach out to me.
-</p>
-
+<div align="center">
+  <h1>
+  <img height="60" width="60" src="https://c.tenor.com/5ScafrzcSVkAAAAM/panda-hi.gif" />
+  </h1>
+<div>
+ 
+<div align="center">
+  <p>
+   The dude is dedicated in providing software solutions, Information security and is willing to collaborate with other developers in engineering projects.
+  </p>
+  <p>
+   An experienced Full Stack Developer working with Python/Django and Bootstrap, I have a great passion for building intuitive and dynamic user experiences.
+  </p>
+  <p>
+   Besides my boundless energy levels, I enjoy continuous learning, pushing myself, and working on interesting things that matter.
+  </p>
+  <p>
+   Whether it is an application that you would like developed or a problem you need to be solved, you can reach out to me.
+  </p>
+</div>
 <div align="center">
  <h2>Languages</h2>
  <a href="https://github.com/igwe9">
