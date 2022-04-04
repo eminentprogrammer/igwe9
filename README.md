@@ -1,12 +1,11 @@
-<div align="right">
-  <h1>
+<div align="left">
+  <h1 style="color:red">
     Hello Alien,
-  <img height="60" width="60" src="https://c.tenor.com/5ScafrzcSVkAAAAM/panda-hi.gif" />
-    
+    <img height="60" width="60" src="https://c.tenor.com/5ScafrzcSVkAAAAM/panda-hi.gif" />
   </h1>
 <div>
  
-<div align="right">
+<div align="left">
   <p>
    The dude is dedicated in providing software solutions, Information security and is willing to collaborate with other developers in engineering projects.
   </p>
@@ -21,14 +20,14 @@
   </p>
 </div>
   
-<div align="left">
+<div align="center">
  <h2>Languages</h2>
  <a href="https://github.com/igwe9">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igwe9&theme=tokyonight&layout=compact">
  </a>
 </div>
 
-<div align="right">
+<div align="center">
  <h2>Github Statistics</h2>
  <a href="https://github.com/igwe9">
  <img align="center" alt="Igwesi Emmanuel Github Stats" src="https://github-readme-stats.vercel.app/api?username=igwe9&show_icons=true&theme=tokyonight">
@@ -37,17 +36,18 @@
 
 <div align="center">
   <h1>Languages and Tools: </h1>
-   <img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+  
+   <img align="left" alt="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 
-   <img  align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+   <img  align="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 
-   <img align="right" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-
-   <img lign="right" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-
-  <img  align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
+  <img  align="left" alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
  
-  <img  align="right" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
+   <img align="middle" alt="Javascript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+
+  <img align="middle" alt="Django" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
+
+   <img lign="right" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
 </div>
 
