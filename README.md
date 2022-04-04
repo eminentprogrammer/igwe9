@@ -1,10 +1,12 @@
-<div align="center">
+<div align="right">
   <h1>
+    Hello Alien,
   <img height="60" width="60" src="https://c.tenor.com/5ScafrzcSVkAAAAM/panda-hi.gif" />
+    
   </h1>
 <div>
  
-<div align="center">
+<div align="right">
   <p>
    The dude is dedicated in providing software solutions, Information security and is willing to collaborate with other developers in engineering projects.
   </p>
@@ -19,14 +21,14 @@
   </p>
 </div>
   
-<div align="center">
+<div align="left">
  <h2>Languages</h2>
  <a href="https://github.com/igwe9">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igwe9&theme=tokyonight&layout=compact">
  </a>
 </div>
 
-<div align="center">
+<div align="right">
  <h2>Github Statistics</h2>
  <a href="https://github.com/igwe9">
  <img align="center" alt="Igwesi Emmanuel Github Stats" src="https://github-readme-stats.vercel.app/api?username=igwe9&show_icons=true&theme=tokyonight">
@@ -44,9 +46,7 @@
    <img lign="right" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
   <img  align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
-
-  <img  align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/reactjs.png"/>
-  
+ 
   <img  align="right" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
 
 </div>
