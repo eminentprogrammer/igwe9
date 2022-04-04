@@ -1,7 +1,8 @@
 <div align="left">
   <h1 style="color:red">
+    <img height="60" width="60" src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" />
     Hello Alien,
-    <img height="60" width="60" src="https://c.tenor.com/5ScafrzcSVkAAAAM/panda-hi.gif" />
+    Welcome to my github page.
   </h1>
 <div>
  
@@ -10,9 +11,10 @@
    The dude is dedicated in providing software solutions, Information security and is willing to collaborate with other developers in engineering projects.
   </p>
   <p>
-   An experienced Full Stack Developer working with Python/Django and Bootstrap, I have a great passion for building intuitive and dynamic user experiences.
+   An experienced software engineer, working on providing data security and also an InfoSec Intern at Tenece
   </p>
   <p>
+   I have a great passion for building intuitive and dynamic user experiences.
    Besides my boundless energy levels, I enjoy continuous learning, pushing myself, and working on interesting things that matter.
   </p>
   <p>
