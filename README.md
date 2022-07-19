@@ -8,7 +8,7 @@
  
 <div align="left">
   <p>
-   I pride myself as dedicated in providing software solutions, Information security and I'm willing to collaborate with other developers in engineering projects that solves real world problems.
+   I pride myself as dedicated Software Engineer, Information Security and I'm willing to collaborate with other developers in engineering projects that solves real world problems.
   </p>
   <p>
    An experienced software engineer, working on providing data security.
