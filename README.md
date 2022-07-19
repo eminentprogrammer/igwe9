@@ -2,16 +2,16 @@
   <h1 style="color:red">
     <img height="60" width="60" src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" />
     Hello Alien,
-    Welcome to my github page.
+    Welcome to my CodeSpace.
   </h1>
 <div>
  
 <div align="left">
   <p>
-   The dude is dedicated in providing software solutions, Information security and is willing to collaborate with other developers in engineering projects.
+   I pride myself as dedicated in providing software solutions, Information security and I'm willing to collaborate with other developers in engineering projects that solves real world problems.
   </p>
   <p>
-   An experienced software engineer, working on providing data security and also an InfoSec Intern at Tenece
+   An experienced software engineer, working on providing data security.
   </p>
   <p>
    I have a great passion for building intuitive and dynamic user experiences.
